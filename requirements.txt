@@ -1,0 +1,9 @@
+pandas
+numpy
+panel
+hvplot
+holoviews
+bokeh
+requests
+param
+plotly
